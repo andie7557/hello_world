@@ -1,2 +1,3 @@
 # hello_world
-My first repository.
+Hello,
+There are so many interesting things to learn and I find myself wishing I have more time. 
